@@ -17,4 +17,4 @@ WARNING: Use of undeclared Var goog.math.Long/getOne at line 92 /home/adam/.cljs
 WARNING: cljs.core/<=, all arguments must be numbers, got [#{nil js/Number} number] instead at line 1193 /home/adam/.cljs/.aot_cache/1.10.741/26FED25/clojure/test/check/generators.cljc
 ```
 
-The one I am most interested in is the last one.
+I am most interested in the last one.
